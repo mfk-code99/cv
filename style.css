@@ -1,0 +1,28 @@
+body{
+    background-color: #eaf6f6;
+   }
+h1 {
+    color: #66bfbf;
+    background-color: pink;
+    background-clip: content-box;
+    font-style: oblique;
+   }
+h3 {
+    color: #66bfbf;
+   }
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(253, 108, 164);
+    border-width: 5px;
+    width: 5%;
+   }
+.Edu {
+       border-style: none;
+       border-bottom-style: ridge;
+       background-color: pink;
+      }
+th   {
+      border-style: none;
+      border-bottom-style: groove;
+     }
